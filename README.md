@@ -1,14 +1,14 @@
 # MSTIL: Multi-cue Shape-aware Transferable Imbalance Learning for Effective Graphic API Recommendation
 
-**The code of MSTIL: Multi-cue Shape-aware Transferable Imbalance Learning for Effective Graphic API Recommendation.**
+# The code of MSTIL: Multi-cue Shape-aware Transferable Imbalance Learning for Effective Graphic API Recommendation.
 
-**The required resources**
+# The required resources
 
 The Module is a required package for calling EfficientNet-b3.
 
 Datasets and other resources are available at https://pan.baidu.com/s/1I8btvuLwn5w3GnI-ZCV3Ew (the code is ISSE).
 
-**Train and Test**
+# Train and Test
 
 To train and test the model with MSTIL (resnet for example):
 ```shell
@@ -31,4 +31,4 @@ Models | Caffe | Keras | TensorFlow | CNTK | MXNet | PyTorch  | CoreML | ONNX
 [ResNext](https://arxiv.org/abs/1611.05431)                                 |   √   |   √   |     √      |   √  |   √   | √ | √ | √ | √ | √
 [voc FCN](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf) |       |       |     √      |   √  |       |
 
-If you find this code to be useful for your research, please consider citing.
+**If you find this code to be useful for your research, please consider citing.**
