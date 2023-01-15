@@ -6,7 +6,7 @@
 
 **Datasets and other resources are available at https://pan.baidu.com/s/1I8btvuLwn5w3GnI-ZCV3Ew (the code is ISSE).**
 
-To train the model with MSTIL (resnet for example):
+**To train the model with MSTIL (resnet for example):**
 ```shell
 python resnet.py -g[the id of your gpu]
 ```
