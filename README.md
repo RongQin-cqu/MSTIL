@@ -6,7 +6,7 @@ The Module is a required package for calling EfficientNet-b3.
 
 Datasets and other resources are available at https://github.com/cqu-isse/Plot2API.
 
-To train LORA on SER30K on a single node with 2 gpus for 50 epochs run:
+To train the model with MSTIL (resnet for example):
 ```shell
-python xxx.py -g[the id of your gpu]
+python resnet.py -g[the id of your gpu]
 ```
