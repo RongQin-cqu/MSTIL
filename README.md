@@ -12,7 +12,7 @@ Datasets and other resources are available at https://pan.baidu.com/s/1I8btvuLwn
 
 To train and test the model with MSTIL (resnet for example):
 ```shell
-python resnet.py -g[the id of your gpu]
+python resnet.py -g [the id of your gpu]
 ```
 # The result of our model
 Models | Caffe | Keras | TensorFlow | CNTK | MXNet | PyTorch  | CoreML | ONNX
