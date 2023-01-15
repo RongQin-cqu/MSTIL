@@ -1,6 +1,6 @@
 # MSTIL: Multi-cue Shape-aware Transferable Imbalance Learning for Effective Graphic API Recommendation
 
-# The code of MSTIL: Multi-cue Shape-aware Transferable Imbalance Learning for Effective Graphic API Recommendation.
+**The code of MSTIL: Multi-cue Shape-aware Transferable Imbalance Learning for Effective Graphic API Recommendation.**
 
 # The required resources
 
