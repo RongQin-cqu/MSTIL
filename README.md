@@ -10,7 +10,7 @@ Datasets and other resources are available at https://pan.baidu.com/s/1I8btvuLwn
 
 # Train and Test
 
-To train and test the model with MSTIL (resnet for example):
+To train the model with MSTIL (resnet for example):
 ```shell
 python resnet.py -g [the id of your gpu]
 ```
