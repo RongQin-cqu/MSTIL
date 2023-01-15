@@ -14,6 +14,7 @@ To train and test the model with MSTIL (resnet for example):
 ```shell
 python resnet.py -g[the id of your gpu]
 ```
+# The result of our model
 Models | Caffe | Keras | TensorFlow | CNTK | MXNet | PyTorch  | CoreML | ONNX
 :-----:|:-----:|:-----:|:----------:|:----:|:-----:|:--------:|:------:|:-----:|
 [VGG 19](https://arxiv.org/abs/1409.1556.pdf) | √ | √ | √ | √ | √ | √ | √ | √
@@ -31,4 +32,5 @@ Models | Caffe | Keras | TensorFlow | CNTK | MXNet | PyTorch  | CoreML | ONNX
 [ResNext](https://arxiv.org/abs/1611.05431)                                 |   √   |   √   |     √      |   √  |   √   | √ | √ | √ | √ | √
 [voc FCN](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf) |       |       |     √      |   √  |       |
 
+# Citation
 **If you find this code to be useful for your research, please consider citing.**
