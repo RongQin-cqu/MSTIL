@@ -27,10 +27,12 @@ datasets.
  The performance of models With MSTIL or with standard training (Baseline) on
 the Python-Plot13 dataset. The AP of APIs with test samples more than 10 are also shown
 as follows.
+
 <img src="result2.png" width="633" >
 
 The performance of models with MSTIL or with standard training (Baseline) on
 R-Plot32 dataset. The AP of APIs with test samples more than 10 are also shown as follows.
+
 <img src="result3.png" width="633" >
 
 # Citation
