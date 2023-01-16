@@ -21,8 +21,14 @@ python resnet50_test.py -g [the id of your gpu]
 ```
 # The result of our model
 The performance of models with standard training (Baseline) or with MSTIL on all
-datasets:
+datasets.
 <img src="result1.png" width="633" >
+ The performance of models With MSTIL or with standard training (Baseline) on
+the Python-Plot13 dataset. The AP of APIs with test samples more than 10 are also shown
+as follows.
+
+The performance of models with MSTIL or with standard training (Baseline) on
+R-Plot32 dataset. The AP of APIs with test samples more than 10 are also shown as follows.
 
 # Citation
 **If you find this code to be useful for your research, please consider citing.**
