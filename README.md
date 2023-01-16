@@ -14,6 +14,11 @@ To train the model with MSTIL (resnet for example):
 ```shell
 python resnet.py -g [the id of your gpu]
 ```
+
+To test the model trained with MSTIL (resnet for example):
+```shell
+python resnet50_test.py -g [the id of your gpu]
+```
 # The result of our model
 Models | Caffe | Keras | TensorFlow | CNTK | MXNet | PyTorch  | CoreML | ONNX
 :-----:|:-----:|:-----:|:----------:|:----:|:-----:|:--------:|:------:|:-----:|
