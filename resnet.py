@@ -661,6 +661,7 @@ for epoch in range(500):
     if map > best_acc:
         best_acc = map
         best=100 * ap_meter.value()
+        torch.save(model, 'resnet.pkl')
     print(" Val BatchSize cost time :%.4f s" % (time.time() - batch_size_start))
     print('Test Accuracy of the model on the 5000 Val images: %.4f' % (map))
     print("best-accuracy: %.4f" % (best_acc))
