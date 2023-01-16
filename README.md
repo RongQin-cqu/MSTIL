@@ -20,6 +20,8 @@ To test the model trained with MSTIL (resnet for example):
 python resnet50_test.py -g [the id of your gpu]
 ```
 # The result of our model
+The performance of models with standard training (Baseline) or with MSTIL on all
+datasets:
 <img src="result1.png" width="633" >
 
 # Citation
